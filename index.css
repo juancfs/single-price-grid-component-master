@@ -79,7 +79,7 @@ h1 {
 
 h2 {
   font-size: 1.25rem;
-  font-weight: 400;
+  font-weight: 700;
 }
 
 .subscription {
@@ -98,6 +98,7 @@ button {
   border: none;
   border-radius: 5px;
   color: white;
+  cursor: pointer;
   font-family: "Karla-Regular";
   font-size: 1.1rem;
   height: 3.125rem;
